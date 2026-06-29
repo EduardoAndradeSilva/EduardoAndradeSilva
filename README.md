@@ -1,8 +1,8 @@
-https://github.com/EduardoAndradeSilva/Projetos/blob/main/README.mdOlá, eu sou Eduardo de Andrade Silva! 👋
+https://github.com/EduardoAndradeSilva/Projetos/blob/main/README.mdOlá, eu sou Eduardo de Andrade Silva! 
 
 Sobre mim
 
-🎓 Estudante do curso Técnico em Informática na ETEC de Cubatão.
+Estudante do curso Técnico em Informática na ETEC de Cubatão.
 
 Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas e desenvolver minhas habilidades na área da informática. Meu objetivo é construir uma carreira sólida no desenvolvimento de software e na área de tecnologia.
 
@@ -39,37 +39,12 @@ Tecnologias que estou aprendendo
 
 Contato
 
-📧 E-mail:
+E-mail:
 eduardoandradesilva536@gmail.com
 
-💼 LinkedIn:
+LinkedIn:
 https://www.linkedin.com/in/eduardo-de-andrade-silva-354158381
 
-🐙 GitHub:
+GitHub:
 https://github.com/EduardoAndradeSilva
 
----
-
-Histórico de Commits da Atividade
-
-📝 Commit 1: Criando estrutura inicial do perfil
-
-- Criação do README.md;
-- Adição do título principal;
-- Inclusão da seção "Sobre mim".
-
-📝 Commit 2: Adicionando habilidades e objetivos profissionais
-
-- Criação da tabela de habilidades;
-- Inclusão dos objetivos profissionais;
-- Adição das tecnologias que estou aprendendo.
-
-📝 Commit 3: Finalizando currículo web
-
-- Inclusão das informações de contato;
-- Ajustes na formatação em Markdown;
-- Finalização do perfil para entrega da atividade.
-
----
-
-⭐ "O aprendizado contínuo é o caminho para construir um futuro melhor na tecnologia."
