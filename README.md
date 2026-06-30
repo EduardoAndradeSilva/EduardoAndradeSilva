@@ -31,3 +31,11 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas e de
 - Python
 - Java
 - Git e GitHub
+
+## Contato
+
+ **E-mail:**  
+eduardoandradesilva536@gmail.com
+
+**LinkedIn:**  
+<https://www.linkedin.com/in/eduardo-de-andrade-silva-354158381>
